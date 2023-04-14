@@ -4,7 +4,7 @@
 **lucilamicaelamartinez/lucilamicaelamartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
-💻 I'm a Informatics Engineering student at the Universidad de Mendoza.<br>✨ I’m currently working on me (studying)<br>
+💻 I'm a Informatics Engineering student at the Universidad de Mendoza.<br>✨ I’m currently working on me (studying).<br>
 
 
 ## 🌐 Socials:
